@@ -1,4 +1,6 @@
 # Azcord-Discord-Add-On
+WE PUT THE DOWNLOAD LINK IN A UFILE.IO BECAUSE IT WOULD NOT LET ME UPLOAD IT TO GITHUB BECAUSE OF THE FILE BEING TO BIG!
+
 this is a add on for discord like better discord & vencord called Azcord me & my friend made this in school! 
 Azcord was made like better discord & vencord!, it has way more add-ons then better discord & vencord you can use way more stuff you can log chats into a txt file with the plugin chatloggersender.txt
 it also has stuff you can you to optimize discord & give you a better discord experience!
