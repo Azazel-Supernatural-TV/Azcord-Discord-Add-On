@@ -1,6 +1,6 @@
 # Azcord-Discord-Add-On
-this is a add on for discord like better discord &amp; vencord called Azcord me &amp; my friend made this in school! 
-Azcord was made like better discord & vencord!, it has way more plugins then better discord & vencord you can use way more stuff you can log chats into a txt file with the plugin chatloggersender.txt
+this is a add on for discord like better discord & vencord called Azcord me & my friend made this in school! 
+Azcord was made like better discord & vencord!, it has way more add-ons then better discord & vencord you can use way more stuff you can log chats into a txt file with the plugin chatloggersender.txt
 it also has stuff you can you to optimize discord & give you a better discord experience!
 it can also show the date & time a users account was created! it can also show you the last message they sent 
 to anyone of they're friends!
